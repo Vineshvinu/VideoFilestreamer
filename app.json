@@ -1,8 +1,8 @@
 {
     "name": "Telegram Video Player Bot",
-    "description": "An Telegram Bot By @AsmSafone To Stream Videos in Voice Chat",
-    "repository": "https://github.com/AsmSafone/VideoPlayerBot",
-    "logo": "https://telegra.ph/file/1adba0bdcbcf7d81c8ab8.jpg",
+    "description": "An Telegram Bot By @THM_OTT To Stream Videos in Voice Chat",
+    "repository": "https://github.com/Vineshvinu/VideoFilestreamer",
+    "logo": "https://telegra.ph/file/716dc9eedd264ab64aa18.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
